@@ -19,4 +19,4 @@ Job Market by Sector in Perth.
 ![Market Size by Sector](charts/perth.png)
 
 Job Market by Sector in Adelaide.
-![Market Size by Sector](charts/aedlaide.png)
+![Market Size by Sector](charts/adelaide.png)
