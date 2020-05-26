@@ -1,4 +1,3 @@
-<div align="center">
 # Data Story
 
 Job Market Size in Australia.
@@ -54,5 +53,3 @@ Salaries for ICT Sub-Sectors in Australia
 Patterns of Job Postings
 
 ![Patterns of Job Postings](charts/postings.png)
-
-</div>
