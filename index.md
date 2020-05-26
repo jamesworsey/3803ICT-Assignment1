@@ -1,4 +1,4 @@
-# Data Story
+<p style="text-align: center;"> # Data Story </p>
 
 Job Market Size in Australia.
 
