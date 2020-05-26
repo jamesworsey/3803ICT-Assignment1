@@ -1,4 +1,5 @@
-<p style="text-align: center;"> # Data Story </p>
+<div align="center">
+# Data Story
 
 Job Market Size in Australia.
 
@@ -54,3 +55,4 @@ Patterns of Job Postings
 
 ![Patterns of Job Postings](charts/postings.png)
 
+</div>
